@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Guilherme Pinto! 🫡</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=26&duration=3500&pause=500&color=028451&center=true&vCenter=true&width=600&height=150&lines=+Informatics+Engineering+Student;An+aspiring+game+developer;A+frontend+enthusiast" alt="Typing SVG" /></a>
+</p>
+<p>&nbsp;</p>
+<img align="right" alt="SAMMY" width="400" src="https://media.giphy.com/media/xkYkgcptz3OmI/giphy.gif?cid=790b7611onhgzz8tmktepieb0jv8koz2q7iq2hq066hll6sj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<!--
-**Pin7i7o/Pin7i7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a game in GODOT
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **GDScript, C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Games, Movies**
+
+- 📫 How to reach me **gui.ds.pinto@gmail.com**
+W
+- ⚡ Fun fact **I love playing games**, especially League... 🫥
+ 
