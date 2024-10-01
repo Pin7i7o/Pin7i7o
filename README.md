@@ -2,13 +2,13 @@
 <div align="center">
     <table>
     <tr>
-        <td>👾</td>
+        <td style="background-color: #b9bdba;">👾</td>
         <td align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=26&duration=3500&pause=500&color=028451&center=true&vCenter=true&width=600&height=100&lines=+Informatics+Engineering+Student;An+aspiring+game+developer;A+frontend+enthusiast" alt="Typing SVG" />
         </a>
         </td>
-        <td>👾</td>
+        <td style="background-color: #b9bdba;">👾</td>
     </tr>
     </table>
 </div>
