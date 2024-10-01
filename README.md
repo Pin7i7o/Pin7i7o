@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Guilherme Pinto! 🫡</h1>
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
     <p>👾</p>
     <p align="center">
         <a href="https://git.io/typing-svg">
