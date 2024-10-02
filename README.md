@@ -8,15 +8,17 @@
 ## **About me** 👾
 <img align="right" alt="SAMMY" width="350" src="https://media.giphy.com/media/xkYkgcptz3OmI/giphy.gif?cid=790b7611onhgzz8tmktepieb0jv8koz2q7iq2hq066hll6sj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on a game in GODOT
+- 🔭 I’m currently working on a game in **GODOT**
 
 - 🌱 I’m currently learning **GDScript and C#**
+
+- 🎓 I'm currently studying **Informatics Engineering**
 
 - 💬 Ask me about **Games and Movies/Series**
 
 - 📫 How to reach me **gui.ds.pinto@gmail.com**
 
-- ⚡ Fun fact **I love playing games**, especially League... 🫥
+- ⚡ Fun fact **I LOVE playing games**, especially League... 🫥
 
 <br />
 
