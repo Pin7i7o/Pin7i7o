@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Games and Movies/Series**
 
-- 📫 How to reach me **gui.ds.pinto@gmail.com**
+- 📫 How to reach me: **gui.ds.pinto@gmail.com**
 
 - ⚡ Fun fact **I LOVE playing games**, especially League... 🫥
 
@@ -30,6 +30,8 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Node.JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Ionic" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="PostgreSql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -38,9 +40,20 @@
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-          
+   
 <br />
 
-#
+### **Projects**
+
+| Name      | Description                                                                                                                                                   |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Eletric Move Web Scraping Website](https://github.com/Jota02/FrontEnd) | Frontend for a web scraping tool with the goal of scraping eletric cars from [standvirtual](https://www.standvirtual.com/). 
+Developed in TypeScript, HTML and CSS, using Bootstrap and Ionic frameworks |
+| [Eletric Move Web Scraping API](https://github.com/RodrigoCamposRodrigues/railway-manager) | Backend server for a web scraping tool with the goal of scraping eletric cars from [standvirtual](https://www.standvirtual.com/). Developed in Node.JS |
+| [Burguer Dropper](https://github.com/Pin7i7o/Burguer-Dropper) | A Purble Place inspired game about making burguers. Developed in Phaser |
+| [Ghost Chaser](https://github.com/Pin7i7o/Ghost-Chaser-Unity) | A Luigi's Mansion inspired game survival style. Developed in Unity. [Try it out!](https://pintito.itch.io/ghost-chaser) |
+| [Hotel Chain](https://github.com/RodrigoCamposRodrigues/feup-rcom/tree/main/proj1) | Frontend for a hotel management mobile app regarding sensors. 
+Developed in TypeScript, HTML and CSS, using Bootstrap and Ionic frameworks |
+
 
  
