@@ -59,9 +59,14 @@
 ### **Stats** 📊
 
 ![Pin7i7o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pin7i7o&show_icons=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pin7i7o&layout=compact)
 
 <img align="center" alt="Pacman" width="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+<img align="center" alt="Pacman" width="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+<img align="center" alt="Pacman" width="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+<img align="center" alt="Pacman" width="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+<img align="center" alt="Pacman" width="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+<img align="center" alt="Pacman" width="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+
 
 
 
