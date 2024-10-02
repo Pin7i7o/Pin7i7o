@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I LOVE playing games**, especially League... 🫥
 
-<img align="center" alt="Pacman" width="100vw" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+<img align="center" alt="Pacman" style="width: 100vw;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
 
 ### **Languages and Tools** 🖥️
 
