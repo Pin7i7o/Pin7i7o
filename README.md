@@ -20,7 +20,19 @@
 
 - ⚡ Fun fact **I LOVE playing games**, especially League... 🫥
 
-#
+<br />
+
+<div>
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp"> 
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
+</div>
+
 
 ### **Languages and Tools** 🖥️
 
@@ -58,17 +70,6 @@
 
 ### **Stats** 📊
 
+<img align="right" alt="That's all" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFhZDBqbzYzbmZzaWI3djloYzNodzBsdWw3b2V4OG9jOHh3bmg4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTpme2Po0hkqI/giphy.gif">
+
 ![Pin7i7o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pin7i7o&show_icons=true&theme=chartreuse-dark)
-
-
-<div>
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp"> 
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-</div>
-
