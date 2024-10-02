@@ -20,8 +20,6 @@
 
 - ⚡ Fun fact **I LOVE playing games**, especially League... 🫥
 
-<br />
-
 #
 
 ### **Languages and Tools** 🖥️
