@@ -8,7 +8,7 @@
 ## **About me** 👾
 <img align="right" alt="SAMMY" width="400" src="https://media.giphy.com/media/xkYkgcptz3OmI/giphy.gif?cid=790b7611onhgzz8tmktepieb0jv8koz2q7iq2hq066hll6sj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p style="margin-top: 100px";>
+<p style="margin-top: 100px;"></p>
 
 - 🔭 I’m currently working on a game in GODOT
 
