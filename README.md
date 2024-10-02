@@ -47,13 +47,11 @@
 
 | Name      | Description                                                                                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Eletric Move Web Scraping Website](https://github.com/Jota02/FrontEnd) | Frontend for a web scraping tool with the goal of scraping eletric cars from [standvirtual](https://www.standvirtual.com/). 
-Developed in TypeScript, HTML and CSS, using Bootstrap and Ionic frameworks |
+| [Eletric Move Web Scraping Website](https://github.com/Jota02/FrontEnd) | Frontend for a web scraping tool with the goal of scraping eletric cars from [standvirtual](https://www.standvirtual.com/). Developed in TypeScript, HTML and CSS, using Bootstrap and Ionic frameworks |
 | [Eletric Move Web Scraping API](https://github.com/RodrigoCamposRodrigues/railway-manager) | Backend server for a web scraping tool with the goal of scraping eletric cars from [standvirtual](https://www.standvirtual.com/). Developed in Node.JS |
 | [Burguer Dropper](https://github.com/Pin7i7o/Burguer-Dropper) | A Purble Place inspired game about making burguers. Developed in Phaser |
 | [Ghost Chaser](https://github.com/Pin7i7o/Ghost-Chaser-Unity) | A Luigi's Mansion inspired game survival style. Developed in Unity. [Try it out!](https://pintito.itch.io/ghost-chaser) |
-| [Hotel Chain](https://github.com/RodrigoCamposRodrigues/feup-rcom/tree/main/proj1) | Frontend for a hotel management mobile app regarding sensors. 
-Developed in TypeScript, HTML and CSS, using Bootstrap and Ionic frameworks |
+| [Hotel Chain](https://github.com/RodrigoCamposRodrigues/feup-rcom/tree/main/proj1) | Frontend for a hotel management mobile app regarding sensors. Developed in TypeScript, HTML and CSS, using Bootstrap and Ionic frameworks |
 
 
  
