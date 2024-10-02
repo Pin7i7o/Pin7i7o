@@ -70,6 +70,6 @@
 
 ### **Stats** 📊
 
-<img align="right" alt="That's all" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFhZDBqbzYzbmZzaWI3djloYzNodzBsdWw3b2V4OG9jOHh3bmg4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTpme2Po0hkqI/giphy.gif">
+<img align="right" alt="That's all" width="350" src="https://media.giphy.com/media/upg0i1m4DLe5q/giphy.gif?cid=790b76114aad0jo63nfsib7v9hc3hw0lul7oex8oc8xwnh8q&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ![Pin7i7o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pin7i7o&show_icons=true&theme=chartreuse-dark)
