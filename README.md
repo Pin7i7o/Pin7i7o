@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I LOVE playing games**, especially League... 🫥
 
-#
+<img align="center" alt="Pacman" width="100vw" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
 
 ### **Languages and Tools** 🖥️
 
@@ -53,6 +53,9 @@
 | [Burguer Dropper](https://github.com/Pin7i7o/Burguer-Dropper) | A Purble Place inspired game about making burguers. Developed in Phaser |
 | [Ghost Chaser](https://github.com/Pin7i7o/Ghost-Chaser-Unity) | A Luigi's Mansion inspired game survival style. Developed in Unity. [Try it out!](https://pintito.itch.io/ghost-chaser) |
 | [Hotel Chain](https://github.com/RodrigoCamposRodrigues/feup-rcom/tree/main/proj1) | Frontend for a hotel management mobile app regarding sensors. Developed in TypeScript, HTML and CSS, using Bootstrap and Ionic frameworks |
+
+#
+
 
 
  
