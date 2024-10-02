@@ -5,7 +5,7 @@
     </a>
 </p>
 
-### **About me** 👾
+## **About me** 👾
 <img align="right" alt="SAMMY" width="400" src="https://media.giphy.com/media/xkYkgcptz3OmI/giphy.gif?cid=790b7611onhgzz8tmktepieb0jv8koz2q7iq2hq066hll6sj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on a game in GODOT
@@ -17,8 +17,6 @@
 - 📫 How to reach me **gui.ds.pinto@gmail.com**
 
 - ⚡ Fun fact **I love playing games**, especially League... 🫥
-
-<br />
 
 ### **Languages and Tools** 🖥️
 
