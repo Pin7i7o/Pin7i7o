@@ -5,7 +5,7 @@
     </a>
 </p>
 
-## **About me** 👾
+### **About me** 👾
 <img align="right" alt="SAMMY" width="400" src="https://media.giphy.com/media/xkYkgcptz3OmI/giphy.gif?cid=790b7611onhgzz8tmktepieb0jv8koz2q7iq2hq066hll6sj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <br />
@@ -22,7 +22,7 @@
 
 <br />
 
-## **Languages and Tools** 🖥️
+### **Languages and Tools** 🖥️
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
