@@ -22,18 +22,6 @@
 
 <br />
 
-<div>
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp"> 
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-    <img align="center" alt="Pacman" width="102" style="margin: 0;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29wc2dwM2czdW15azFhNzZ4OHo3M2EzNmJxNnYzbXVycms2YXVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.webp">
-</div>
-
-
 ### **Languages and Tools** 🖥️
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
