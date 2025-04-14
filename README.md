@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a game in **GODOT**
 
-- 🌱 I’m currently learning **GDScript and C#**
+- 🌱 I’m currently learning **GDScript**
 
 - 🎓 I'm currently studying **Informatics Engineering**
 
